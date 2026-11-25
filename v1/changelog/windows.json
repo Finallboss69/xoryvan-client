@@ -1,0 +1,51 @@
+{
+  "product": "xoryvan",
+  "channel": "windows",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-25",
+      "title": "Lanzamiento de Xoryvan para Windows",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Primera versión de Xoryvan para Windows: MU Online Season 21 con la misma cuenta que en el celular y en el navegador."
+        },
+        {
+          "category": "nuevo",
+          "text": "El launcher baja el juego completo la primera vez y después sólo lo que cambia en cada parche."
+        },
+        {
+          "category": "nuevo",
+          "text": "Todo lo que baja el launcher viene firmado: si un archivo no coincide, no se instala."
+        },
+        {
+          "category": "nuevo",
+          "text": "El launcher se actualiza solo cuando sale una versión nueva."
+        },
+        {
+          "category": "interfaz",
+          "text": "Interfaz nueva del juego (Reaper) en Windows 10 y 11, con la interfaz clásica cuando la PC no tiene WebView2."
+        },
+        {
+          "category": "interfaz",
+          "text": "Launcher de Xoryvan con novedades del servidor, estado en línea y accesos a la web, la wiki y el registro."
+        },
+        {
+          "category": "interfaz",
+          "text": "Configuración desde el launcher: resolución, ventana o pantalla completa, idioma, límite de FPS y motor de video."
+        },
+        {
+          "category": "rendimiento",
+          "text": "Modo compatibilidad para placas de video viejas: el launcher puede pasar el juego al motor por software."
+        },
+        {
+          "category": "servidor",
+          "text": "Conecta al servidor oficial de Xoryvan."
+        }
+      ],
+      "download_bytes": 0,
+      "files_changed": 0
+    }
+  ]
+}
