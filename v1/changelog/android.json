@@ -1,0 +1,39 @@
+{
+  "product": "xoryvan",
+  "channel": "android",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-25",
+      "title": "Lanzamiento de Xoryvan en Android",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Primera versión de Xoryvan para Android: MU Online Season 21 en el celular, con la misma cuenta que en PC y en el navegador."
+        },
+        {
+          "category": "nuevo",
+          "text": "Los datos del juego se bajan solos en el primer arranque y después sólo se baja lo que cambia."
+        },
+        {
+          "category": "nuevo",
+          "text": "La app se actualiza sola cuando sale una versión nueva."
+        },
+        {
+          "category": "interfaz",
+          "text": "Nombre, ícono y pantalla de carga de Xoryvan."
+        },
+        {
+          "category": "interfaz",
+          "text": "«Crear cuenta» abre la página de registro de xoryvan.com; los botones Web y Wiki llevan al sitio."
+        },
+        {
+          "category": "servidor",
+          "text": "Conecta al servidor oficial de Xoryvan."
+        }
+      ],
+      "download_bytes": 0,
+      "files_changed": 0
+    }
+  ]
+}
