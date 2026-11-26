@@ -3,6 +3,31 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.1",
+      "date": "2026-11-26",
+      "title": "X-Shop con Goblin Points",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "X-Shop abierta en la beta, sólo con Goblin Points: sellos, pergaminos, pociones, talismanes, tickets de evento y expansiones. No vende sets, alas ni joyas."
+        },
+        {
+          "category": "nuevo",
+          "text": "Los Goblin Points se ganan jugando: 10 cada 10 minutos conectado, 500 por reset y 50.000 por Grand Reset."
+        },
+        {
+          "category": "interfaz",
+          "text": "Al entrar, el chat muestra la versión del cliente: Xoryvan Beta 1.0.1."
+        },
+        {
+          "category": "servidor",
+          "text": "Castle Siege listo para la segunda semana: domingos de 20 a 22 (hora de Argentina), con premio para el gremio dueño del castillo."
+        }
+      ],
+      "download_bytes": 3714435,
+      "files_changed": 2
+    },
+    {
       "version": "1.0.0",
       "date": "2026-11-25",
       "title": "Lanzamiento de Xoryvan para Windows",
